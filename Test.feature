@@ -29,6 +29,7 @@ Feature: As a valid user when I enter my credentials, I should be to login
     	  Examples:
     	  |username|password|
     	  |admin|admin|
+	  |editor|welcome1|
    
    
     	   
